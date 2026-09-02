@@ -1,0 +1,365 @@
+<svg viewBox="0 0 1400 620" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpjNWJlZDI2Mi1mZWM1LTQ3ZDEtYWY3ZC00YmE4ODU1MzQ3MTkAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaMdkMO/ARk1G5FtPYzIgYikAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDowYjk2MzA0MS0wMzcwLTRmMzAtYjk4ZC02YjZlMjg1NTVhZTRscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoWwSllIjTbYPq0Ct8jwRvcwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggFiPXhegkKZ3cPvIG2u8eSkUUsHSx+OLt0X5oiBsuo7ukZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaJSjmnheykSQ3rE+DynuMEYAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCAEKeaXAh+VQoa3NdH7mztkeCtgCL7rOyY52c3IlEu7qWRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBipZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmM1YmVkMjYyLWZlYzUtNDdkMS1hZjdkLTRiYTg4NTUzNDcxOS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjBiMWY0ZTJlLThmOGItNDA4NC05OTFmLWVhOWI1YWJhOTYxNHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAWI9eF6CQpndw+8gba7x5KRRSwdLH44u3RfmiIGy6ju6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggWpGtpqTrr7VmvzqbfECEC6EtTallQjFELN2p0TkKBZ2iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggpBgt9z80I4fHWjO9cFjxTvQHpAyY90gOh8RquCctQ7d0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQE9cKB/2xFVHvovwiitvo9m8DpOtt7gDjviiKBM7oYX2jgpvUzBBfoetjZ8jfTh7Ft6nzHiSA1v9iXxNpSEhyq8=</c2pa:manifest></metadata>
+
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"  stop-color="#050710"/>
+      <stop offset="45%" stop-color="#070B17"/>
+      <stop offset="78%" stop-color="#0B1224"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+
+    <radialGradient id="signatureGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"  stop-color="#f3d9a4" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#f3d9a4" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="moonGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"  stop-color="#fdf3d8" stop-opacity="0.9"/>
+      <stop offset="35%" stop-color="#f4dfa0" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#f4dfa0" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="lanternGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"  stop-color="#ffd98a" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#ffb347" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="windowGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"  stop-color="#ffe6a8" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#ffcf6b" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="ground" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"  stop-color="#e9eef6"/>
+      <stop offset="100%" stop-color="#cfd9e6"/>
+    </linearGradient>
+
+    <linearGradient id="fog" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"  stop-color="#9fb4d8" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#9fb4d8" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#9fb4d8" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="auroraGold" x1="0" y1="0" x2="1" y2="0.3">
+      <stop offset="0%"  stop-color="#f3d9a4" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#f3d9a4" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#f3d9a4" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="auroraWine" x1="0" y1="0" x2="1" y2="0.2">
+      <stop offset="0%"  stop-color="#7a1220" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#c9506a" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#7a1220" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="shimmerSweep" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"   stop-color="#f3d9a4" stop-opacity="0"/>
+      <stop offset="45%"  stop-color="#fff6df" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#fff6df" stop-opacity="0.16"/>
+      <stop offset="55%"  stop-color="#fff6df" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#f3d9a4" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- ============ SKY ============ -->
+  <rect x="0" y="0" width="1400" height="620" fill="url(#sky)"/>
+
+  <!-- royal aurora ribbons — slow, soft, drifting -->
+  <g>
+    <path d="M-100,90 C 200,40 450,140 750,70 S 1300,120 1500,60 L1500,-50 L-100,-50 Z" fill="url(#auroraGold)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 40,10; 0,0" dur="18s" repeatCount="indefinite"/>
+    </path>
+    <path d="M-100,150 C 250,190 500,110 800,170 S 1250,140 1500,190 L1500,-50 L-100,-50 Z" fill="url(#auroraWine)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -30,8; 0,0" dur="22s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- faint digital constellation / engineering-network lines -->
+  <g stroke="#f3d9a4" stroke-width="0.6" opacity="0.14">
+    <line x1="120" y1="90" x2="210" y2="130"/>
+    <line x1="210" y1="130" x2="300" y2="80"/>
+    <line x1="980" y1="60" x2="1040" y2="120"/>
+    <line x1="1040" y1="120" x2="1120" y2="70"/>
+    <line x1="60" y1="220" x2="150" y2="190"/>
+    <line x1="340" y1="150" x2="440" y2="185"/>
+    <line x1="440" y1="185" x2="560" y2="150"/>
+    <line x1="860" y1="170" x2="950" y2="200"/>
+    <line x1="950" y1="200" x2="1050" y2="175"/>
+  </g>
+  <g fill="#f3d9a4" opacity="0.16" font-family="Consolas, monospace" font-size="7">
+    <text x="118" y="88">01</text>
+    <text x="208" y="128">10</text>
+    <text x="978" y="58">10</text>
+    <text x="1118" y="68">01</text>
+    <text x="338" y="148">10</text>
+    <text x="858" y="168">01</text>
+  </g>
+
+  <!-- signature detail: a golden particle travels the constellation and
+       briefly warms the title as it passes — IDEA -> CREATION -> IMPACT -->
+  <path id="signatureTrail" d="M60,220 C 260,150 420,190 560,150 S 900,205 1050,175 S 1260,120 1340,180"
+        fill="none" stroke="none"/>
+  <circle r="2.6" fill="#f9e6a8">
+    <animateMotion dur="16s" repeatCount="indefinite" rotate="auto">
+      <mpath xlink:href="#signatureTrail"/>
+    </animateMotion>
+    <animate attributeName="opacity" values="0.2;1;1;0.2" keyTimes="0;0.3;0.55;1" dur="16s" repeatCount="indefinite"/>
+  </circle>
+  <ellipse cx="700" cy="195" rx="260" ry="70" fill="url(#signatureGlow)" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.5;0" keyTimes="0;0.32;0.42;0.6" dur="16s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- moon -->
+  <circle cx="1150" cy="110" r="110" fill="url(#moonGlow)"/>
+  <circle cx="1150" cy="110" r="42" fill="#fdf6e0"/>
+  <circle cx="1138" cy="98" r="6" fill="#eee0b8" opacity="0.5"/>
+  <circle cx="1162" cy="120" r="4" fill="#eee0b8" opacity="0.4"/>
+
+  <!-- twinkling stars -->
+  <g fill="#f7ecc9">
+    <circle cx="80"  cy="60"  r="1.4"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="180" cy="40"  r="1.1"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.6s" repeatCount="indefinite" begin="0.4s"/></circle>
+    <circle cx="260" cy="95"  r="1.6"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="4s" repeatCount="indefinite" begin="1s"/></circle>
+    <circle cx="340" cy="55"  r="1.2"><animate attributeName="opacity" values="0.3;1;0.3" dur="3s" repeatCount="indefinite" begin="0.7s"/></circle>
+    <circle cx="420" cy="120" r="1.3"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="3.6s" repeatCount="indefinite" begin="1.3s"/></circle>
+    <circle cx="60"  cy="160" r="1.1"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.8s" repeatCount="indefinite" begin="0.9s"/></circle>
+    <circle cx="500" cy="70"  r="1.4"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.4s" repeatCount="indefinite" begin="0.2s"/></circle>
+    <circle cx="600" cy="40"  r="1.2"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="3.1s" repeatCount="indefinite" begin="1.6s"/></circle>
+    <circle cx="700" cy="90"  r="1.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.9s" repeatCount="indefinite" begin="0.5s"/></circle>
+    <circle cx="820" cy="50"  r="1.1"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.3s" repeatCount="indefinite" begin="1.1s"/></circle>
+    <circle cx="900" cy="140" r="1.3"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="3.7s" repeatCount="indefinite" begin="0.3s"/></circle>
+    <circle cx="1000" cy="180" r="1.2"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.7s" repeatCount="indefinite" begin="0.8s"/></circle>
+    <circle cx="1300" cy="60" r="1.4"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.5s" repeatCount="indefinite" begin="1.4s"/></circle>
+    <circle cx="1340" cy="180" r="1.1"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="3s" repeatCount="indefinite" begin="0.6s"/></circle>
+    <circle cx="1250" cy="220" r="1.3"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.5s" repeatCount="indefinite" begin="1s"/></circle>
+  </g>
+
+  <!-- shooting stars — rare, elegant comet streaks -->
+  <g>
+    <g opacity="0">
+      <line x1="0" y1="0" x2="-46" y2="16" stroke="#fff6df" stroke-width="1.6" stroke-linecap="round"/>
+      <circle r="2" fill="#fff6df"/>
+      <animateMotion path="M180,40 L520,150" dur="13s" repeatCount="indefinite" rotate="auto"/>
+      <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.02;0.06;0.14;1" dur="13s" repeatCount="indefinite"/>
+    </g>
+    <g opacity="0">
+      <line x1="0" y1="0" x2="-38" y2="13" stroke="#fff6df" stroke-width="1.3" stroke-linecap="round"/>
+      <circle r="1.6" fill="#fff6df"/>
+      <animateMotion path="M980,200 L1220,270" dur="19s" begin="6s" repeatCount="indefinite" rotate="auto"/>
+      <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.03;0.07;0.16;1" dur="19s" begin="6s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <!-- floating royal gold dust — rises slowly, opposite the falling snow -->
+  <g fill="#f3d9a4">
+    <circle cx="160" cy="560" r="1.6" opacity="0.5"><animate attributeName="cy" values="560;40" dur="17s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.6;0" dur="17s" repeatCount="indefinite"/></circle>
+    <circle cx="460" cy="580" r="1.3" opacity="0.4"><animate attributeName="cy" values="580;60" dur="21s" begin="3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.5;0" dur="21s" begin="3s" repeatCount="indefinite"/></circle>
+    <circle cx="760" cy="560" r="1.7" opacity="0.5"><animate attributeName="cy" values="560;30" dur="16s" begin="7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.55;0" dur="16s" begin="7s" repeatCount="indefinite"/></circle>
+    <circle cx="1040" cy="590" r="1.4" opacity="0.4"><animate attributeName="cy" values="590;70" dur="19s" begin="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.5;0" dur="19s" begin="2s" repeatCount="indefinite"/></circle>
+    <circle cx="1260" cy="570" r="1.6" opacity="0.5"><animate attributeName="cy" values="570;50" dur="18s" begin="9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.55;0" dur="18s" begin="9s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- ============ TITLE TEXT (fades in) ============ -->
+  <g text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">
+    <text x="700" y="178" font-size="52" letter-spacing="6" fill="#f3d9a4" opacity="0">
+      DUVVURU&#160;&#160;PRAVANYA&#160;&#160;SREE
+      <animate attributeName="opacity" from="0" to="1" dur="2s" begin="0.3s" fill="freeze"/>
+    </text>
+    <text x="700" y="215" font-size="17" letter-spacing="3" font-family="Helvetica, Arial, sans-serif" fill="#eee6d2" opacity="0">
+      COMPUTER SCIENCE ENGINEERING STUDENT
+      <animate attributeName="opacity" from="0" to="1" dur="2s" begin="1.4s" fill="freeze"/>
+    </text>
+    <text x="700" y="243" font-size="13" letter-spacing="2.5" font-family="Helvetica, Arial, sans-serif" fill="#c9b98a" opacity="0">
+      SOFTWARE DEVELOPMENT &#8226; WEB &#8226; ANALYTICS &#8226; AI/ML
+      <animate attributeName="opacity" from="0" to="1" dur="2s" begin="2.4s" fill="freeze"/>
+    </text>
+  </g>
+
+  <!-- royal ornamental flourish beneath the tagline -->
+  <g stroke="#c9b98a" fill="none" stroke-width="1" opacity="0">
+    <animate attributeName="opacity" from="0" to="0.55" dur="1.8s" begin="3s" fill="freeze"/>
+    <path d="M560,262 C 610,272 660,272 690,262"/>
+    <path d="M840,262 C 790,272 740,272 710,262"/>
+    <circle cx="700" cy="266" r="2.4" fill="#f3d9a4" stroke="none"/>
+    <circle cx="676" cy="260" r="1.3" fill="#c9b98a" stroke="none"/>
+    <circle cx="724" cy="260" r="1.3" fill="#c9b98a" stroke="none"/>
+  </g>
+
+  <!-- twin sparkle accents flanking the name -->
+  <g fill="#f9e6a8" opacity="0">
+    <animate attributeName="opacity" values="0;0.9;0.4;0.9;0" keyTimes="0;0.2;0.5;0.8;1" dur="5s" begin="1.2s" repeatCount="indefinite"/>
+    <path d="M430,168 l2.2,7 7,2.2 -7,2.2 -2.2,7 -2.2,-7 -7,-2.2 7,-2.2 Z"/>
+    <path d="M968,168 l2.2,7 7,2.2 -7,2.2 -2.2,7 -2.2,-7 -7,-2.2 7,-2.2 Z"/>
+  </g>
+
+  <!-- ============ DISTANT MOUNTAINS ============ -->
+  <polygon points="0,360 120,300 260,350 400,290 560,355 700,310 860,360 1000,300 1160,350 1300,310 1400,355 1400,400 0,400"
+           fill="#101a33" opacity="0.55"/>
+
+  <!-- fog band -->
+  <rect x="0" y="330" width="1400" height="70" fill="url(#fog)"/>
+
+  <!-- ============ PINE FOREST SILHOUETTE ============ -->
+  <g fill="#050a13">
+    <polygon points="40,420 75,330 110,420"/>
+    <polygon points="90,420 130,310 170,420"/>
+    <polygon points="1230,420 1265,325 1300,420"/>
+    <polygon points="1280,420 1320,315 1360,420"/>
+    <polygon points="150,420 185,335 220,420"/>
+    <polygon points="1150,420 1185,335 1220,420"/>
+  </g>
+
+  <!-- ============ CABIN ============ -->
+  <g>
+    <polygon points="560,330 640,330 600,285" fill="#0b0f19"/>
+    <polygon points="556,332 644,332 632,320 568,320" fill="#eef2f7" opacity="0.9"/>
+    <rect x="565" y="330" width="70" height="70" fill="#161116"/>
+    <circle cx="586" cy="358" r="18" fill="url(#windowGlow)">
+      <animate attributeName="opacity" values="0.85;1;0.85" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <rect x="578" y="350" width="16" height="16" fill="#ffdd94" opacity="0.9">
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="2.6s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="612" y="350" width="14" height="14" fill="#ffdd94" opacity="0.85">
+      <animate attributeName="opacity" values="0.8;1;0.8" dur="3.1s" repeatCount="indefinite" begin="0.5s"/>
+    </rect>
+    <rect x="595" y="374" width="16" height="26" fill="#0b0810"/>
+    <!-- chimney + subtle smoke -->
+    <rect x="616" y="262" width="13" height="60" fill="#1c1720"/>
+    <rect x="614" y="260" width="17" height="6" fill="#2a2430"/>
+    <g fill="#c7cede">
+      <circle cx="624" cy="256" r="4">
+        <animate attributeName="cy" values="256;242;232" dur="6s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.35;0.18;0" dur="6s" repeatCount="indefinite"/>
+        <animate attributeName="r" values="4;9;13" dur="6s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="626" cy="256" r="3">
+        <animate attributeName="cy" values="256;245;236" dur="6s" begin="2s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.3;0.14;0" dur="6s" begin="2s" repeatCount="indefinite"/>
+        <animate attributeName="r" values="3;7;11" dur="6s" begin="2s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="622" cy="256" r="3.5">
+        <animate attributeName="cy" values="256;243;234" dur="6s" begin="4s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.32;0.16;0" dur="6s" begin="4s" repeatCount="indefinite"/>
+        <animate attributeName="r" values="3.5;8;12" dur="6s" begin="4s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+  </g>
+
+  <!-- ============ CHRISTMAS TREE ============ -->
+  <g transform="translate(760,300)">
+    <polygon points="0,0 -55,60 -35,60 -70,110 -45,110 -85,165 85,165 45,110 70,110 35,60 55,60" fill="#07341f"/>
+    <polygon points="0,-4 -46,58 -30,58" fill="#0a4227" opacity="0.5"/>
+    <!-- ornaments -->
+    <circle cx="-18" cy="40" r="3.2" fill="#7a1220"/>
+    <circle cx="22" cy="70" r="3" fill="#f3d9a4"/>
+    <circle cx="-30" cy="95" r="3.3" fill="#7a1220"/>
+    <circle cx="18" cy="120" r="3" fill="#f3d9a4"/>
+    <circle cx="-45" cy="140" r="3.2" fill="#7a1220"/>
+    <circle cx="40" cy="145" r="3" fill="#f3d9a4"/>
+    <!-- fairy lights -->
+    <g fill="#ffd98a">
+      <circle cx="-8" cy="25" r="2"><animate attributeName="opacity" values="0.3;1;0.3" dur="1.8s" repeatCount="indefinite"/></circle>
+      <circle cx="12" cy="50" r="2"><animate attributeName="opacity" values="1;0.3;1" dur="2.1s" repeatCount="indefinite"/></circle>
+      <circle cx="-28" cy="75" r="2"><animate attributeName="opacity" values="0.3;1;0.3" dur="1.6s" repeatCount="indefinite" begin="0.3s"/></circle>
+      <circle cx="30" cy="90" r="2"><animate attributeName="opacity" values="1;0.3;1" dur="2.4s" repeatCount="indefinite" begin="0.6s"/></circle>
+      <circle cx="-10" cy="110" r="2"><animate attributeName="opacity" values="0.3;1;0.3" dur="1.9s" repeatCount="indefinite" begin="0.2s"/></circle>
+      <circle cx="0" cy="150" r="2"><animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite" begin="0.8s"/></circle>
+    </g>
+    <!-- star topper -->
+    <g transform="translate(0,-14)">
+      <path d="M0,-11 L3,-3 L11,-3 L4.5,2 L7,10 L0,5 L-7,10 L-4.5,2 L-11,-3 L-3,-3 Z" fill="#f9e6a8">
+        <animate attributeName="opacity" values="0.6;1;0.6" dur="2.2s" repeatCount="indefinite"/>
+      </path>
+      <circle r="16" fill="url(#lanternGlow)" opacity="0.5"/>
+    </g>
+  </g>
+
+  <!-- ============ LANTERNS ============ -->
+  <g>
+    <rect x="470" y="360" width="4" height="40" fill="#1a1712"/>
+    <circle cx="472" cy="352" r="16" fill="url(#lanternGlow)">
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="472" cy="352" r="4" fill="#ffe9b0"/>
+
+    <rect x="920" y="365" width="4" height="38" fill="#1a1712"/>
+    <circle cx="922" cy="357" r="14" fill="url(#lanternGlow)">
+      <animate attributeName="opacity" values="0.8;1;0.8" dur="2.8s" repeatCount="indefinite" begin="0.4s"/>
+    </circle>
+    <circle cx="922" cy="357" r="3.5" fill="#ffe9b0"/>
+  </g>
+
+  <!-- ============ SNOW GROUND ============ -->
+  <path d="M0,400 C200,380 350,410 560,398 C760,388 980,412 1200,392 C1300,384 1360,398 1400,392 L1400,620 L0,620 Z" fill="url(#ground)"/>
+
+  <!-- footprints -->
+  <g fill="#b9c4d4" opacity="0.6">
+    <ellipse cx="640" cy="440" rx="4" ry="6"/>
+    <ellipse cx="655" cy="452" rx="4" ry="6"/>
+    <ellipse cx="668" cy="466" rx="4" ry="6"/>
+    <ellipse cx="683" cy="478" rx="4" ry="6"/>
+    <ellipse cx="696" cy="492" rx="4" ry="6"/>
+  </g>
+
+  <!-- rooftop / branch snow highlights -->
+  <g fill="#eef2f8" opacity="0.85">
+    <ellipse cx="0" cy="0" rx="0" ry="0"/>
+  </g>
+
+  <!-- ============ FALLING SNOW (3 depth layers) ============ -->
+  <g fill="#ffffff">
+    <!-- distant, small, faint -->
+    <g opacity="0.35">
+      <circle cx="100" cy="0" r="1.3"><animate attributeName="cy" values="-10;630" dur="9s" repeatCount="indefinite"/><animate attributeName="cx" values="100;120;100" dur="4s" repeatCount="indefinite"/></circle>
+      <circle cx="300" cy="0" r="1.1"><animate attributeName="cy" values="-10;630" dur="10s" repeatCount="indefinite" begin="1.5s"/><animate attributeName="cx" values="300;280;300" dur="5s" repeatCount="indefinite"/></circle>
+      <circle cx="520" cy="0" r="1.4"><animate attributeName="cy" values="-10;630" dur="8.5s" repeatCount="indefinite" begin="3s"/></circle>
+      <circle cx="760" cy="0" r="1.2"><animate attributeName="cy" values="-10;630" dur="9.5s" repeatCount="indefinite" begin="0.8s"/></circle>
+      <circle cx="980" cy="0" r="1.3"><animate attributeName="cy" values="-10;630" dur="10.5s" repeatCount="indefinite" begin="2.2s"/></circle>
+      <circle cx="1200" cy="0" r="1.1"><animate attributeName="cy" values="-10;630" dur="9s" repeatCount="indefinite" begin="1.1s"/></circle>
+    </g>
+    <!-- mid layer -->
+    <g opacity="0.55">
+      <circle cx="180" cy="0" r="2"><animate attributeName="cy" values="-10;630" dur="7s" repeatCount="indefinite" begin="0.6s"/><animate attributeName="cx" values="180;210;180" dur="3.5s" repeatCount="indefinite"/></circle>
+      <circle cx="420" cy="0" r="2.2"><animate attributeName="cy" values="-10;630" dur="6.5s" repeatCount="indefinite" begin="2s"/></circle>
+      <circle cx="640" cy="0" r="1.8"><animate attributeName="cy" values="-10;630" dur="7.5s" repeatCount="indefinite" begin="0.3s"/></circle>
+      <circle cx="860" cy="0" r="2"><animate attributeName="cy" values="-10;630" dur="6.8s" repeatCount="indefinite" begin="1.4s"/></circle>
+      <circle cx="1080" cy="0" r="2.1"><animate attributeName="cy" values="-10;630" dur="7.2s" repeatCount="indefinite" begin="2.6s"/></circle>
+      <circle cx="1320" cy="0" r="1.9"><animate attributeName="cy" values="-10;630" dur="7s" repeatCount="indefinite" begin="0.9s"/></circle>
+    </g>
+    <!-- foreground, large -->
+    <g opacity="0.8">
+      <circle cx="260" cy="0" r="3"><animate attributeName="cy" values="-10;630" dur="5s" repeatCount="indefinite" begin="0.2s"/><animate attributeName="cx" values="260;300;260" dur="3s" repeatCount="indefinite"/></circle>
+      <circle cx="540" cy="0" r="3.2"><animate attributeName="cy" values="-10;630" dur="5.5s" repeatCount="indefinite" begin="1.7s"/></circle>
+      <circle cx="820" cy="0" r="2.8"><animate attributeName="cy" values="-10;630" dur="4.8s" repeatCount="indefinite" begin="0.9s"/></circle>
+      <circle cx="1100" cy="0" r="3"><animate attributeName="cy" values="-10;630" dur="5.2s" repeatCount="indefinite" begin="2.3s"/></circle>
+      <circle cx="1360" cy="0" r="2.9"><animate attributeName="cy" values="-10;630" dur="5.4s" repeatCount="indefinite" begin="0.5s"/></circle>
+    </g>
+  </g>
+
+  <!-- ============ ROYAL FRAME ============ -->
+  <g>
+    <rect x="10" y="10" width="1380" height="600" fill="none" stroke="#c9b98a" stroke-width="1.4" opacity="0.5"/>
+    <rect x="16" y="16" width="1368" height="588" fill="none" stroke="#f3d9a4" stroke-width="0.6" opacity="0.3"/>
+
+    <!-- corner flourishes -->
+    <g stroke="#f3d9a4" stroke-width="1" fill="none" opacity="0.55">
+      <path d="M10,46 Q10,10 46,10"/>
+      <path d="M1354,10 Q1390,10 1390,46"/>
+      <path d="M1390,574 Q1390,610 1354,610"/>
+      <path d="M46,610 Q10,610 10,574"/>
+    </g>
+    <g fill="#f3d9a4" opacity="0.6">
+      <circle cx="10" cy="10" r="2.4"/>
+      <circle cx="1390" cy="10" r="2.4"/>
+      <circle cx="1390" cy="610" r="2.4"/>
+      <circle cx="10" cy="610" r="2.4"/>
+    </g>
+
+    <!-- slow foil-light sweep across the whole card -->
+    <rect x="-700" y="0" width="700" height="620" fill="url(#shimmerSweep)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 2100,0" dur="11s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+</svg>
