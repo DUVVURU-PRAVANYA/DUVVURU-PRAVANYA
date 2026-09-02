@@ -298,6 +298,7 @@ A web-based floral e-commerce application focused on product discovery, visual p
 [![GitHub](https://img.shields.io/badge/GitHub-070B17?style=for-the-badge&logo=github&logoColor=C9B98A)](https://github.com/DUVVURU-PRAVANYA)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3A1020?style=for-the-badge&logo=linkedin&logoColor=F3D9A4)](https://www.linkedin.com/in/duvvuru/)
 [![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=E8E2D0)](mailto:pravanyasreeduvvuru@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=E8E2D0)]([https://yourportfolio.com](https://duvvuru-pravanya.github.io/dps/))
 
 </div>
 
